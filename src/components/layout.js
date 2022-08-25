@@ -175,7 +175,7 @@ export default ({ children }) => {
               fontWeight: `400`,
               color: `grayPrimary`,
             }}
-            href="https://github.com/gillkyle/theme-ui-gallery"
+            href="https://github.com/uvacoder/abc-theme-ui-gallery"
           >
             View Source
             <FiGithub sx={{ ml: 1 }} />
